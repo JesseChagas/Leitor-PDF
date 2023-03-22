@@ -1,4 +1,4 @@
-# Programa Python para extrair texto e imagens de arquivos PDF
+# Programa em Python para extrair texto e imagens de arquivos PDF
 
 Este programa Python usa a biblioteca PyPDF2 para ler arquivos PDF e extrair o texto e as imagens.
 
